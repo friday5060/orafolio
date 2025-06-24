@@ -1,0 +1,42 @@
+
+
+.nav{
+
+    justify-content: center;
+    justify-content: space-around;
+    color: rgb(14, 9, 9);
+    
+    /* margin-bottom: 66px; */
+}
+.firstrow{
+    justify-content: center;
+    /* background-color: black; */
+    color: white;
+    /* margin-top: 20px; */
+}
+.contactme{
+    /* background-color: rgb(58, 39, 32); */
+    margin-left: 700px;
+    margin-right: 839px;
+}
+
+.margin{
+    /* margin-bottom: 12px; */
+    margin-top: 12px;
+}
+.navimage{
+    height: 20px;
+    width: 20px;
+}
+@media(max-width:868px) {
+    .nav{ margin-right: 500px;
+        margin-left: ;
+
+
+    }
+
+    .img{
+         height: 200px;
+         width: 100;
+        }
+}
